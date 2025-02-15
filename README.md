@@ -6,7 +6,7 @@
 
 
 ## チーム名
-チーム3 Sakusaku.wav
+チーム3 sakusaku.wav
 <!-- チームIDとチーム名を入力してください -->
 
 
